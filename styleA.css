@@ -1,0 +1,83 @@
+*{   
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #ededed;
+}
+.company{
+    font-size: 25px;
+    word-spacing: 20px;
+    padding-left: 180px;
+    padding-top: 30px;
+}
+.company:hover{
+    color: orange;
+    cursor: pointer;
+    
+}
+    
+
+.welcome {
+    font-size: 50px;
+    padding-left: 200px;
+    width: 300px;
+    text-align: center;
+    margin-bottom: -10px; 
+}
+
+.firstit{
+    padding-left: 160px;
+    width: 400px;
+    text-align: center;
+    padding-top:10px;
+    
+}
+.firsti{
+    width: 500px;
+    height: 600px;
+    border-radius: 20px;
+    position: absolute;
+    left: 800px;
+    top: 40px
+}
+.IK {
+    border-radius: 20px;
+    position: absolute;
+    left: 170px;
+    width: 500px;
+    top:670px;
+    height: 600px;
+}
+.IKt {
+    
+    width: 400px;
+    padding-top: 20px;
+    padding-left: 800px;
+}
+.naryn{
+    border-radius: 20px;
+    position: absolute;
+    left: 800px;
+    width: 500px;
+    top: 1290px;
+    height: 600px;
+}
+.narynt{
+    width: 480px;
+    padding-top: 85px;
+    padding-left: 185px;
+    text-align: right;
+}
+.bish{
+    border-radius: 20px;
+    position: absolute;
+    left: 170px;
+    width: 500px;
+    top:1930px;
+    height: 600px;
+}
+.bisht{
+    width: 450px;
+    padding-top: 40px;
+    padding-left: 800px;
+}
